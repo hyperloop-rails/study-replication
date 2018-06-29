@@ -1,0 +1,5 @@
+user 338116
+post 1900984
+comment 1411828
+friend 130
+tags 5
