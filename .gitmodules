@@ -1,0 +1,36 @@
+[submodule "applications/spree"]
+	path = applications/spree
+	url = git@github.com:spree/spree.git
+[submodule "applications/discourse"]
+	path = applications/discourse
+	url = git@github.com:discourse/discourse.git
+[submodule "applications/gitlabhq"]
+	path = applications/gitlabhq
+	url = git@github.com:gitlabhq/gitlabhq.git
+[submodule "applications/redmine"]
+	path = applications/redmine
+	url = git@github.com:redmine/redmine.git
+[submodule "applications/lobsters"]
+	path = applications/lobsters
+	url = git@github.com:lobsters/lobsters.git
+[submodule "applications/onebody"]
+	path = applications/onebody
+	url = https://github.com/churchio/onebody
+[submodule "applications/diaspora"]
+	path = applications/diaspora
+	url = git@github.com:diaspora/diaspora.git
+[submodule "applications/tracks"]
+	path = applications/tracks
+	url = git@github.com:TracksApp/tracks.git
+[submodule "applications/falling-fruit"]
+	path = applications/falling-fruit
+	url = git@github.com:falling-fruit/falling-fruit.git
+[submodule "applications/fulcrum"]
+	path = applications/fulcrum
+	url = git@github.com:fulcrum-agile/fulcrum.git
+[submodule "applications/openstreetmap-website"]
+	path = applications/openstreetmap-website
+	url = git@github.com:openstreetmap/openstreetmap-website.git
+[submodule "applications/ror_ecommerce"]
+	path = applications/ror_ecommerce
+	url = git@github.com:drhenner/ror_ecommerce.git
