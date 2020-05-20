@@ -1,0 +1,156 @@
+issue-id,anti-pattern,detailed category (if applicable),link
+spree-6750,Inefficient Computation,Inefficient queries,https://github.com/spree/spree/pull/6750
+spree-6720,Inefficient Computation,Moving computation to the DBMS / Inefficient queries,https://github.com/spree/spree/pull/6720
+spree-6950,Inefficient Computation,Moving computation to the DBMS,https://github.com/spree/spree/pull/6950
+spree-2468,Inefficient Computation,Moving computation to the DBMS,https://github.com/spree/spree/pull/2468
+spree-6819,Inefficient Computation,Moving computation to the Server,https://github.com/spree/spree/pull/6819
+spree-6379,Unnecessary Computation,Dead store query,https://github.com/spree/spree/pull/6379
+spree-8145,Unnecessary Computation,Dead store query,https://github.com/spree/spree/pull/8145
+spree-5566,Unnecessary Computation,Dead store query,https://github.com/spree/spree/pull/5566
+spree-5565,Unnecessary Computation,Query with known results,https://github.com/spree/spree/pull/5565
+spree-4579,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/4579
+spree-6754,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/6754
+spree-5721,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/5721
+spree-4534,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/4534
+spree-5690,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/5690
+spree-7456,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/7456
+spree-5063,Inefficient data access,Inefficient eager loading,https://github.com/spree/spree/pull/5063
+spree-6816,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/6816
+spree-7170,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/7170
+spree-7511,Inefficient data access,Inefficient lazy loading,https://github.com/spree/spree/pull/7511
+spree-6856,Inefficient data access,Inefficient update,https://github.com/spree/spree/pull/6856
+spree-2468,Unnecessary Data Retrieval,,https://github.com/spree/spree/pull/2468
+spree-7078,Unnecessary Data Retrieval,,https://github.com/spree/spree/pull/7078
+spree-7098,Missing index,,https://github.com/spree/spree/pull/7098
+spree-5648,Missing index,,https://github.com/spree/spree/pull/5648
+spree-4909,Missing index,,https://github.com/spree/spree/pull/4909
+spree-3634,Missing fields,,https://github.com/spree/spree/pull/3634
+spree-7301,Missing fields,,https://github.com/spree/spree/pull/7301
+spree-6379,Unnecessary Feature,,https://github.com/spree/spree/pull/6379
+Redmine-23318,Inefficient Computation,Inefficient queries,http://www.redmine.org//issues/23318
+Redmine-24839,Inefficient Computation,Inefficient queries,http://www.redmine.org//issues/24839
+Redmine-17203,Inefficient Computation,Inefficient queries,http://www.redmine.org//issues/17203
+Redmine-11827,Inefficient Computation,Inefficient queries,http://www.redmine.org//issues/11827
+Redmine-13301,Inefficient Computation,Moving computation to the DBMS,http://www.redmine.org//issues/13301
+Redmine-18290,Inefficient Computation,Inefficient queries,http://www.redmine.org//issues/18290
+Redmine-8301,Unnecessary Computation,Loop-invariant queries,http://www.redmine.org//issues/8301
+Redmine-23196,Unnecessary Computation,Query with known results,http://www.redmine.org//issues/23196
+Redmine-21608,Unnecessary Computation,Loop-invariant queries,http://www.redmine.org//issues/21608
+Redmine-23334,Unnecessary Computation,Loop-invariant queries,http://www.redmine.org//issues/23334
+Redmine-23328,Inefficient data access,Inefficient lazy loading,http://www.redmine.org//issues/23328
+Redmine-11904,Inefficient data access,Inefficient lazy loading,http://www.redmine.org//issues/11904
+Redmine-24587,Inefficient data access,Inefficient lazy loading,http://www.redmine.org//issues/24587
+Redmine-16091,Inefficient data access,Inefficient lazy loading,http://www.redmine.org//issues/16091
+Redmine-15781,Inefficient data access,Inefficient lazy loading,http://www.redmine.org//issues/15781
+Redmine-19102,Unnecessary Data Retrieval,,http://www.redmine.org//issues/19102
+Redmine-24553,Missing index,,http://www.redmine.org//issues/24553
+Redmine-23987,Missing index,,http://www.redmine.org//issues/23987
+Redmine-24433,Missing index,,http://www.redmine.org//issues/24433
+Redmine-20879,Missing index,,http://www.redmine.org//issues/20879
+Redmine-18696,Missing index,,http://www.redmine.org//issues/18696
+Redmine-22850,Missing index,,http://www.redmine.org//issues/22850
+Gitlab-3325,Inefficient Computation,Inefficient queries,https://gitlab.com/gitlab-org/gitlab-ce/issues/3325
+Gitlab-36182,Inefficient Computation,Inefficient queries,https://gitlab.com/gitlab-org/gitlab-ce/issues/36182
+Gitlab-17960,Inefficient Computation,Moving computation to the Server,https://gitlab.com/gitlab-org/gitlab-ce/issues/17960
+Gitlab-11415,Unnecessary Computation,Dead store query,https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/11415
+Gitlab-10248,Unnecessary Computation,Query with known results,https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/10248
+Gitlab-10063,Unnecessary Computation,Query with known results,https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/10063
+Gitlab-27165,Inefficient data access,Inefficient lazy loading,https://gitlab.com/gitlab-org/gitlab-ce/issues/27165
+Gitlab-27390,Inefficient data access,Inefficient lazy loading,https://gitlab.com/gitlab-org/gitlab-ce/issues/27390
+Gitlab-34736,Inefficient data access,Inefficient lazy loading,https://gitlab.com/gitlab-org/gitlab-ce/issues/34736
+Gitlab-36182,Inefficient data access,Inefficient lazy loading,https://gitlab.com/gitlab-org/gitlab-ce/issues/36182
+Gitlab-13345,Unnecessary Data Retrieval,,https://gitlab.com/gitlab-org/gitlab-ce/issues/13345
+Gitlab-3325,Unnecessary Data Retrieval,,https://gitlab.com/gitlab-org/gitlab-ce/issues/3325
+Gitlab-17960,Unnecessary Data Retrieval,,https://gitlab.com/gitlab-org/gitlab-ce/issues/17960
+Gitlab-3325,Missing Index,,https://gitlab.com/gitlab-org/gitlab-ce/issues/3325
+Gitlab-3064,Missing Index,,https://gitlab.com/gitlab-org/gitlab-ce/issues/3064
+Gitlab-27165,Missing Index,,https://gitlab.com/gitlab-org/gitlab-ce/issues/27165
+Gitlab-23768,Missing Index,,https://gitlab.com/gitlab-org/gitlab-ce/issues/23768
+Gitlab-27390,Unworthy Content Display,,https://gitlab.com/gitlab-org/gitlab-ce/issues/27390
+Gitlab-27165,Unworthy features,,https://gitlab.com/gitlab-org/gitlab-ce/issues/27165
+Gitlab-36182,Unworthy features,,https://gitlab.com/gitlab-org/gitlab-ce/issues/36182
+Gitlab-27390,Unworthy features,,https://gitlab.com/gitlab-org/gitlab-ce/issues/27390
+Gitlab-35962,Unworthy features,,https://gitlab.com/gitlab-org/gitlab-ce/issues/35962
+Tracks-112,Inefficient Computation,Inefficient queries,https://github.com/TracksApp/tracks/pull/112
+Tracks-1689,Inefficient Computation,Moving computation to the DBMS,https://github.com/TracksApp/tracks/pull/1689
+Tracks-63,Unnecessary Computation,Query with known results,https://github.com/TracksApp/tracks/pull/63
+Tracks-222,Inefficient data access,Inefficient lazy loading,https://github.com/TracksApp/tracks/pull/222
+Tracks-677,Inefficient data access,Inefficient lazy loading,https://github.com/TracksApp/tracks/issues/677
+Tracks-632,Missing Index,,https://github.com/TracksApp/tracks/pull/632
+Tracks-936,Missing Index,,https://github.com/TracksApp/tracks/pull/936
+Tracks-1274,Missing Index,,https://github.com/TracksApp/tracks/pull/1274
+Tracks-172,Unworthy Content Display,,https://github.com/TracksApp/tracks/pull/172
+Tracks-1249,Unworthy Content Display,,https://github.com/TracksApp/tracks/pull/1249
+Tracks-546,Unworthy Content Display,,https://github.com/TracksApp/tracks/pull/546
+Tracks-870,Unworthy features,,https://github.com/TracksApp/tracks/pull/870
+Diaspora-3197,Inefficient Computation,Inefficient queries,https://github.com/diaspora/diaspora/pull/3197
+Diaspora-7491,Inefficient Computation,Inefficient queries,https://github.com/diaspora/diaspora/pull/7491
+Diaspora-5014,Unnecessary Computation,Loop-invariant queries,https://github.com/diaspora/diaspora/pull/5014
+Diaspora-6903,Unnecessary Computation,Query with known results,https://github.com/diaspora/diaspora/pull/6903
+Diaspora-3087,Missing Index,,https://github.com/diaspora/diaspora/pull/3087
+Diaspora-6771,Missing Index,,https://github.com/diaspora/diaspora/pull/6771
+Diaspora-7234,Missing Index,,https://github.com/diaspora/diaspora/pull/7234
+Diaspora-7203,Missing Index,,https://github.com/diaspora/diaspora/pull/7203
+Diaspora-4190,Missing Index,,https://github.com/diaspora/diaspora/pull/4190
+Diaspora-6932,Inefficient data access,Inefficient lazy loading,https://github.com/diaspora/diaspora/pull/6932
+Diaspora-5335,Unworthy Content Display,,https://github.com/diaspora/diaspora/pull/5335
+Diaspora-3968,Unworthy features,,https://github.com/diaspora/diaspora/pull/3968
+Diaspora-4787,Unworthy features,,https://github.com/diaspora/diaspora/pull/4787
+Openstreetmap-396,Missing Index,,https://github.com/openstreetmap/openstreetmap-website/issues/396
+Openstreetmap-2988,Missing Index,,https://github.com/openstreetmap/openstreetmap-website/issues/2988
+Openstreetmap-2998,Missing Index,,https://github.com/openstreetmap/openstreetmap-website/issues/2998
+Openstreetmap-1259,Unworthy Content Display,,https://github.com/openstreetmap/openstreetmap-website/issues/1259
+Openstreetmap-1532,Unworthy Content Display,,https://github.com/openstreetmap/openstreetmap-website/issues/1532
+Openstreetmap-892,Unworthy features,,https://github.com/openstreetmap/openstreetmap-website/issues/892
+Openstreetmap-1261,Unworthy features,,https://github.com/openstreetmap/openstreetmap-website/issues/1261
+Onebody-568,Inefficient data access,Inefficient lazy loading,https://github.com/seven1m/onebody/issues/568
+Onebody-409,Inefficient data access,Inefficient lazy loading,https://github.com/seven1m/onebody/pull/409
+Onebody-196,Unworthy features,,https://github.com/seven1m/onebody/issues/196
+Onebody-167,Missing index,,https://github.com/seven1m/onebody/commit/54f658ee6d3360915879606f9211c1d638617f57
+Onebody-168,Unnecessary Computation,Dead store query,https://github.com/seven1m/onebody/commit/ef8b34e9f9f2bf4fbd372ee3414c6082925c6a02
+Ror-84,Unworthy Content Display,,https://github.com/drhenner/ror_ecommerce/pull/84
+Ror-88,Unnecessary Computation,Loop-invariant queries,https://github.com/drhenner/ror_ecommerce/commit/ec454d2ca0beb58ed24862addb52ebe71681ee0a
+Lobsters-81,Unworthy features,,https://github.com/jcs/lobsters/pull/81
+Lobsters-245,Missing fields,,https://github.com/jcs/lobsters/issues/245
+Lobsters-76,Missing fields,,https://github.com/jcs/lobsters/pull/76
+Lobsters-69,Unworthy Content Display,,https://github.com/jcs/lobsters/issues/69
+Lobsters-37,Unnecessary Feature,,https://github.com/jcs/lobsters/pull/37
+Lobsters-48,Inefficient data access,Inefficient lazy loading,https://github.com/jcs/lobsters/pull/48
+Lobsters-89,Missing index,,https://github.com/jcs/lobsters/commit/8ed6de3185154bcb9b9b2b66fefb65d9a3f780cf
+Ff-123,Missing fields,,https://github.com/falling-fruit/falling-fruit/commit/fc312dc3c3815635aa2a4f89ac1559874a4e0846
+Ff-124,Missing index,,https://github.com/falling-fruit/falling-fruit/commit/58a9e760b6cac1dc3ab24d6ff89daccba0058888
+Ff-125,Unnecessary Feature,,https://github.com/falling-fruit/falling-fruit/commit/554063b73d6e16fbe5d8c767b33dac4a6a29621c
+Ful-96,Unworthy features,,https://github.com/fulcrum-agile/fulcrum/pull/96
+Ful-45,Unworthy features,,https://github.com/fulcrum-agile/fulcrum/issues/45
+Discourse-4528,Unnecessary Data Retrieval,,https://github.com/discourse/discourse/issues/4528
+Discourse-4294,Inefficient data access,Inefficient lazy loading,https://github.com/discourse/discourse/issues/4294
+Discourse-2782,Inefficient data access,Inefficient lazy loading,https://github.com/discourse/discourse/issues/2782
+Discourse-2274,Inefficient data access,Inefficient lazy loading,https://github.com/discourse/discourse/issues/2274
+Discourse-23747,Unworthy features,,https://github.com/discourse/discourse/issues/23747
+Discourse-16604,Unworthy features,,https://github.com/discourse/discourse/issues/16604
+Discourse-4852,Unworthy features,,https://github.com/discourse/discourse/issues/4852
+Discourse-30088,Missing index,,https://github.com/discourse/discourse/issues/30088
+Discourse-4566,Missing index,,https://github.com/discourse/discourse/issues/4566
+Discourse-3154,Missing index,,https://github.com/discourse/discourse/issues/3154
+Discourse-4663,Unworthy Content Display,,https://github.com/discourse/discourse/issues/4663
+Discourse-4257,Unworthy Content Display,,https://github.com/discourse/discourse/issues/4257
+Discourse-4981,Unworthy Content Display,,https://github.com/discourse/discourse/issues/4981
+Discourse-4866,Unworthy Content Display,,https://github.com/discourse/discourse/issues/4866
+Discourse-25619,Unworthy Content Display,,https://github.com/discourse/discourse/issues/25619
+Discourse-4302,Unnecessary Computation,Query with known results,https://github.com/discourse/discourse/issues/4302
+Discourse-16604,Unnecessary Data Retrieval,,https://github.com/discourse/discourse/issues/16604
+,,,
+,,,
+,,,
+,,,
+,,,
+,,#,sum
+Inefficient Computation,Inefficient queries,12,18
+,Moving computation to the DBMS,4,
+,Moving computation to the Server,2,
+Unnecessary Computation,Loop-invariant queries,5,17
+,Dead store query,5,
+,Query with known results,7,
+Inefficient data access,Inefficient lazy loading,27,29
+,Inefficient eager loading,1,
+,Inefficient update,1,
